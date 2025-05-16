@@ -1,0 +1,7 @@
+latex/
+*.pdf
+*.png
+*.tex
+*.zip
+*.docs
+*.doc
