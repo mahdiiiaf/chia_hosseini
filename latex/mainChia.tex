@@ -1,0 +1,208 @@
+% !TEX program = xelatex
+\documentclass[14pt]{report}
+
+\usepackage{amsmath}
+\usepackage{bibentry}
+%\usepackage{apacite}  \usepackage{cite}
+\usepackage{pdfpages}
+\usepackage{import}
+
+\usepackage{amssymb}
+\usepackage{comment}
+\usepackage{longtable}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+
+%\usepackage{example}
+\usepackage{pgf-pie}
+\usepackage{pgf}
+\usepackage{verbatim}
+\usepackage{pgfplots}
+\usepackage{tikzpagenodes}
+\usetikzlibrary{shapes.geometric}  % This library includes additional shapes
+\usepackage[many]{tcolorbox}
+\usepackage{lipsum}
+\usepackage{tikz}
+%\usepackage[utf8]{inputenc}
+\usetikzlibrary{tikzmark}
+\usetikzlibrary{arrows,automata}
+\usetikzlibrary{positioning}
+\usetikzlibrary{calc,matrix,decorations.markings,decorations.pathreplacing}
+\usepackage{xcolor}
+\usepackage{wrapfig}
+\usepackage[pagebackref=false,colorlinks,linkcolor=blue,citecolor=magenta]{hyperref}
+\usepackage{smartdiagram}
+\usepackage{makeidx}
+\makeindex
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{pdflscape}
+\usepackage{tabu} 
+\usepackage{amsmath}
+\usepackage{enumerate}
+\usepackage{graphicx}
+\usepackage{geometry}
+%‎\usepackage{multicol}
+\usepackage[xindy,esclocations=true]{glossaries}
+\usepackage{adjustbox}
+\usepackage{enumitem}
+\usepackage{float}  
+
+\usepackage{array}
+
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+
+
+% Ensure proper RTL rendering in pgfplots
+%\usepackage{bibtex}
+%\addbibresource{biblo.bib}
+%\usepackage{natbib}
+%\bibliographystyle{plainnat}
+%\bibliography{biblo.bib}
+\usepackage{csquotes} 
+
+
+
+
+\usepackage{xepersian}
+
+
+\pgfplotsset{compat=1.18}
+
+\settextfont[Language=Default]{XBZar}
+\setlatintextfont[Scale=1.2]{Times New Roman}
+\defpersianfont\titr[Scale=1.2]{B Lotus Bold}
+\defpersianfont\ttt[Scale=1.4]{B Lotus Bold}
+\defpersianfont\tit[Scale=1.5]{XB Zar Bold}
+\defpersianfont\aut[Scale=1.2]{B Compset Bold}
+%\DefaultMathsDigits
+\newfontfamily\rar[Scale=]{B Zar Bold}
+
+\deflatinfont\abv[Scale=1.2]{Times New Roman}
+
+\geometry{a4paper,left=45mm,right=45mm,top=46mm,bottom=57.9mm}
+
+
+\setlength{\parindent}{0pt}
+
+\renewcommand{\baselinestretch}{1.8}
+\hypersetup{
+	colorlinks,
+	linkcolor={blue!50!black},
+	citecolor={blue!50!black},
+	urlcolor={blue!80!black}
+}
+
+
+\newtcolorbox{story}[1][]{
+	width=\linewidth,
+	fonttitle=\bfseries,
+	breakable,
+	extrude right by=0cm,
+	fonttitle=\bfseries\color{Brown},
+	colframe=lightgray,
+	colback=lightgray!10
+	#1}
+
+
+
+
+\tikzset{
+	block/.style={
+		rectangle, 
+		draw, 
+		fill=blue!20, 
+		text width=6em, 
+		text centered, 
+		rounded corners, 
+		minimum height=4em
+	},
+	arrow/.style={
+		thick, 
+		->, 
+		>=stealth
+	},
+	cloud/.style={
+		draw, 
+		ellipse, 
+		fill=red!20, 
+		minimum height=2em, 
+		text width=6em, 
+		text centered
+	}
+}
+
+
+
+
+
+\usepackage{bidipoem}
+\usepackage{bidi}
+
+
+%\input{./chapters/glocery.tex}
+\makeglossaries
+
+
+
+\begin{document}
+	
+	
+	
+	\thispagestyle{empty}
+	%بسم الله الرحمن الرحیم%
+	\begin{center}
+		
+		\begin{figure}
+			\centering
+			\includegraphics[width=0.8\textwidth]{fig-1.jpg}
+		\end{figure}
+	\end{center}
+	\newpage\thispagestyle{empty}
+	
+	\title{	\centering\includegraphics[width=0.2\textwidth]{fig0}\\طراحی و تبیین مدل پیش بینی قیمت رمز ارزها مبتنی بر روش بسامد داده ها ، شبکه عصبی و هوش مصنوعی در بازارهای مالی }
+	\author{شیا حسینی\\استاد راهنما \\دکتر ...}
+	\date{\today}
+	
+	\maketitle
+	
+	
+	
+	
+	\tableofcontents\thispagestyle{empty}
+	\newpage
+	\listoffigures\thispagestyle{empty}
+	\newpage
+	\listoftables\thispagestyle{empty}
+	
+	
+	\include{./chapters/intro.tex}
+	\include{./chapters/chapter1.tex}
+	\include{./chapters/chapter2.tex}
+	\include{./chapters/chapter3.tex}
+	
+	
+	
+	
+	%% \Gls{latex} is a powerful tool for creating documents that include \gls{math11s}. 
+	
+	
+	\newpage
+	
+	
+	
+	
+	
+	\bibliographystyle{plain-fa} 
+	\bibliography{./chapters/biblo.bib} 
+	
+	
+	\newpage
+	
+	
+	
+	
+\end{document}
+
+
+

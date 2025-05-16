@@ -1,0 +1,23 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces چارچوب مفهومی مدل پیش‌بینی قیمت رمز ارزها}}{43}{figure.2.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces نمودار قیمت روزانه بیت‌کوین (ژانویه ۲۰۱۸ تا دسامبر ۲۰۲۴)}}{46}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces طیف فرکانسی قیمت روزانه بیت‌کوین با استفاده از FFT}}{47}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces تجزیه موجک قیمت بیت‌کوین در مقیاس‌های مختلف}}{49}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces مقایسه قیمت‌های واقعی و پیش‌بینی‌شده بیت‌کوین توسط مدل LSTM}}{50}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces پیش‌بینی‌های مدل ARIMA در مقابل قیمت‌های واقعی بیت‌کوین با بازه اطمینان 95\%}}{55}{figure.3.5}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces پیش‌بینی‌های رگرسیون خطی در مقابل قیمت‌های واقعی بیت‌کوین}}{55}{figure.3.6}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces پیش‌بینی‌های Gradient Boosting در مقابل قیمت‌های واقعی بیت‌کوین}}{56}{figure.3.7}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces پیش‌بینی‌های Random Forest در مقابل قیمت‌های واقعی بیت‌کوین}}{56}{figure.3.8}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces پیش‌بینی‌های SVR در مقابل قیمت‌های واقعی بیت‌کوین}}{57}{figure.3.9}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces پیش‌بینی‌های XGBoost در مقابل قیمت‌های واقعی بیت‌کوین}}{57}{figure.3.10}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces مقایسه پیش‌بینی‌های مدل‌های مختلف با قیمت‌های واقعی بیت‌کوین (بدون پیش‌بینی LSTM)}}{58}{figure.3.11}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces ARIMA}}{60}{figure.3.12}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces رگرسیون خطی}}{60}{figure.3.13}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Gradient Boosting}}{61}{figure.3.14}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Random Forest}}{61}{figure.3.15}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces SVR}}{62}{figure.3.16}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces XGBoost}}{62}{figure.3.17}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces نمودارهای خطای باقی‌مانده برای مدل‌های مختلف}}{62}{figure.3.18}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces مقایسه معیارهای عملکرد مدل‌های مختلف}}{63}{figure.3.19}%

@@ -1,0 +1,20 @@
+
+    \begin{table}[h]
+        \centering
+        \begin{tabular}{cccccc}
+            \toprule
+            \textbf{مدل} & \textbf{MAE} & \textbf{p-value (MAE)} & \textbf{RMSE} & \textbf{p-value (RMSE)} & \textbf{ \(R^2\) } \\
+            \midrule
+            ARIMA & 22068.6384 & 0.0000 & 26600.0228 & 0.0000 & -2.1119 \\
+            رگرسیون خطی & 1303.4137 & 0.0000 & 1832.4142 & 0.0000 & 0.9852 \\
+            Gradient Boosting & 6098.2405 & 0.0000 & 11970.7240 & 0.0000 & 0.3698 \\
+            Random Forest & 6504.4641 & 0.0000 & 12464.2005 & 0.0000 & 0.3167 \\
+            SVR & 14635.8548 & 0.0000 & 23734.6798 & 0.0000 & -1.4776 \\
+            XGBoost & 6956.9256 & 0.0000 & 12993.2411 & 0.0000 & 0.2575 \\
+            مدل پیشنهادی (LSTM) & 0.0120 & -- & 0.0200 & -- & 0.8800 \\
+            \bottomrule
+        \end{tabular}
+        \caption{مقایسه عملکرد مدل‌های مختلف در پیش‌بینی قیمت بیت‌کوین با آزمون t جفت‌شده نسبت به LSTM}
+        \label{tab:model_comparison}
+    \end{table}
+    

@@ -1,0 +1,204 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: mainChia.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: ./chapters/intro.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: ./chapters/chapter1.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plain-fa.bst
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+Database file #1: ./chapters/biblo.bib
+Repeated entry---line 395 of file ./chapters/biblo.bib
+ : @book{box2015time
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 453 of file ./chapters/biblo.bib
+ : @book{tsay2010analysis
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 481 of file ./chapters/biblo.bib
+ : @book{mallat1999wavelet
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 511 of file ./chapters/biblo.bib
+ : @article{author1
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 531 of file ./chapters/biblo.bib
+ : @article{author2
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 549 of file ./chapters/biblo.bib
+ : @article{author3
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 567 of file ./chapters/biblo.bib
+ : @article{author4
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 585 of file ./chapters/biblo.bib
+ : @article{author5
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 603 of file ./chapters/biblo.bib
+ : @article{author6
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 621 of file ./chapters/biblo.bib
+ : @article{author7
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 891 of file ./chapters/biblo.bib
+ : @article{fama1965efficient
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 911 of file ./chapters/biblo.bib
+ : @article{box1976time
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1145 of file ./chapters/biblo.bib
+ : @book{box1976time
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1217 of file ./chapters/biblo.bib
+ : @article{lo1997market
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1309 of file ./chapters/biblo.bib
+ : @article{bollerslev1986generalized
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1361 of file ./chapters/biblo.bib
+ : @book{box1976time
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1375 of file ./chapters/biblo.bib
+ : @article{weigend1991predicting
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1393 of file ./chapters/biblo.bib
+ : @article{tsay2005analysis
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1413 of file ./chapters/biblo.bib
+ : @article{zhang2008forecasting
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1433 of file ./chapters/biblo.bib
+ : @article{lo1997market
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1453 of file ./chapters/biblo.bib
+ : @book{hamilton1994time
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1467 of file ./chapters/biblo.bib
+ : @article{anderson1998forecasting
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1507 of file ./chapters/biblo.bib
+ : @article{zhang2005forecasting
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1527 of file ./chapters/biblo.bib
+ : @article{engle1982autogressive
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1545 of file ./chapters/biblo.bib
+ : @book{box1976time
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1559 of file ./chapters/biblo.bib
+ : @article{weigend1991predicting
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1577 of file ./chapters/biblo.bib
+ : @article{tsay2005analysis
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1597 of file ./chapters/biblo.bib
+ : @article{zhang2008forecasting
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1617 of file ./chapters/biblo.bib
+ : @article{lo1997market
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1637 of file ./chapters/biblo.bib
+ : @book{hamilton1994time
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1651 of file ./chapters/biblo.bib
+ : @article{anderson1998forecasting
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1671 of file ./chapters/biblo.bib
+ : @article{diebold2001forecasting
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1691 of file ./chapters/biblo.bib
+ : @article{zhang2005forecasting
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1711 of file ./chapters/biblo.bib
+ : @article{engle1982autogressive
+ :                               ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "ahmed2011forecasting"
+Warning--I didn't find a database entry for "armstrong2001forecasting"
+Warning--I didn't find a database entry for "fry2018market"
+Warning--I didn't find a database entry for "nguyen2021wavelet"
+Warning--I didn't find a database entry for "lahmiri2018chaos"
+Warning--I didn't find a database entry for "philippas2019financial"
+Warning--I didn't find a database entry for "arroyo2021ensemble"
+Warning--I didn't find a database entry for "antulov2022explainable"
+-- plain-fa.bst version 0.6 (2011/07/01) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Warning--empty journal in kahneman2011thinking
+Warning--empty journal in mallat1999wavelet
+Warning--empty journal in percival2000wavelet
+
+Done.
+You've used 44 entries,
+            2535 wiz_defined-function locations,
+            895 strings with 10802 characters,
+and the built_in function-call counts, 13499 in all, are:
+= -- 1239
+> -- 432
+< -- 0
++ -- 181
+- -- 132
+* -- 840
+:= -- 2149
+add.period$ -- 132
+call.type$ -- 44
+change.case$ -- 197
+chr.to.int$ -- 0
+cite$ -- 47
+duplicate$ -- 477
+empty$ -- 1059
+format.name$ -- 132
+if$ -- 3087
+int.to.chr$ -- 0
+int.to.str$ -- 44
+missing$ -- 302
+newline$ -- 402
+num.names$ -- 88
+pop$ -- 138
+preamble$ -- 1
+purify$ -- 154
+quote$ -- 0
+skip$ -- 313
+stack$ -- 0
+substring$ -- 903
+swap$ -- 41
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 174
+warning$ -- 3
+while$ -- 129
+width$ -- 46
+write$ -- 609
+(There were 34 error messages)
