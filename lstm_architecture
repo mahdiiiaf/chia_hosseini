@@ -1,0 +1,49 @@
+// معماری مدل LSTM
+digraph {
+	rankdir=TB
+	node [height=0.8 shape=box style="rounded,filled" width=2.5]
+	edge [arrowhead=normal arrowsize=1.5 penwidth=2]
+	input [label="ورودی (1، 13)" fillcolor=lightblue]
+	lstm1 [label="لایه LSTM اول (50 واحد، ReLU)" fillcolor=lightblue]
+	dropout1 [label="لایه Dropout اول (0.2)" fillcolor=lightcoral]
+	lstm2 [label="لایه LSTM دوم (50 واحد، ReLU)" fillcolor=lightblue]
+	dropout2 [label="لایه Dropout دوم (0.2)" fillcolor=lightcoral]
+	dense [label="لایه خروجی Dense (1)" fillcolor=lightgreen]
+	input -> lstm1
+	lstm1 -> dropout1
+	dropout1 -> lstm2
+	lstm2 -> dropout2
+	dropout2 -> dense
+	{
+		rank=same
+		input_label [label="گام‌های زمانی = 1\nویژگی‌ها = 13 (شامل 7 قیمت تاخیری، میانگین متحرک 7 روزه، 3 معیار بلاک‌چین، و 3 شاخص اقتصادی)" shape=plaintext]
+		input -> input_label [style=invis]
+	}
+	{
+		rank=same
+		lstm1_label [label="خروجی: (1، 50)\nضبط وابستگی‌های زمانی اولیه" shape=plaintext]
+		lstm1 -> lstm1_label [style=invis]
+	}
+	{
+		rank=same
+		dropout1_label [label="کاهش بیش‌برازش با حذف 20\% نورون‌ها" shape=plaintext]
+		dropout1 -> dropout1_label [style=invis]
+	}
+	{
+		rank=same
+		lstm2_label [label="خروجی: (50)\nشناسایی الگوهای پیچیده‌تر" shape=plaintext]
+		lstm2 -> lstm2_label [style=invis]
+	}
+	{
+		rank=same
+		dropout2_label [label="جلوگیری از بیش‌برازش با حذف تصادفی" shape=plaintext]
+		dropout2 -> dropout2_label [style=invis]
+	}
+	{
+		rank=same
+		dense_label [label="خروجی: (1)\nپیش‌بینی قیمت بیت‌کوین" shape=plaintext]
+		dense -> dense_label [style=invis]
+	}
+	title [label="معماری مدل LSTM" fontcolor=black fontname="XB Nika" fontsize=20 shape=plaintext]
+	title -> input [style=invis]
+}

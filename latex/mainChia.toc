@@ -1,108 +1,112 @@
-\contentsline {chapter}{مقدمه}{8}{chapter*.4}%
-\contentsline {chapter}{\numberline {1}مرور ادبیات}{11}{chapter.1}%
-\contentsline {section}{\numberline {1.1}مقدمه}{11}{section.1.1}%
-\contentsline {section}{\numberline {1.2}تاریخچه پیش بینی قیمت دارایی‌های مالی}{12}{section.1.2}%
-\contentsline {subsubsection}{فرضیه بازار کارا (\lr {EMH})}{12}{section*.5}%
-\contentsline {subsubsection}{نقدهای تجربی به فرضیه بازارا کارا}{13}{section*.6}%
-\contentsline {subsubsection}{توسعه‌های مدل‌های جایگزین و نقدهای مدرن به فرضیه بازار کارا }{14}{section*.7}%
-\contentsline {subsubsection}{نظریه بازارهای غیرکارا}{14}{section*.8}%
-\contentsline {subsubsection}{تحقیقات جدید و گسترش فرضیه کارایی بازار}{14}{section*.9}%
-\contentsline {subsubsection}{نظرات حامیان فرضیه کارایی بازار}{14}{section*.10}%
-\contentsline {subsubsection}{نتیجه گیری نقد‌ها به کارایی بازار}{15}{section*.11}%
-\contentsline {section}{\numberline {1.3}روش‌ها و مدل‌های مورد استفاده برای پیش بینی}{15}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}مدل‌های \lr {ARIMA}}{15}{subsection.1.3.1}%
-\contentsline {subsubsection}{کاربردهای \lr {ARIMA} در پیش‌بینی قیمت‌ها}{16}{section*.12}%
-\contentsline {subsection}{\numberline {1.3.2}نقدها و محدودیت‌های مدل \lr {ARIMA}}{17}{subsection.1.3.2}%
-\contentsline {subsubsection}{محدودیت‌ در مدل‌سازی روابط غیرخطی}{17}{section*.13}%
-\contentsline {subsubsection}{عدم توانایی در پیش‌بینی تغییرات ناگهانی}{17}{section*.14}%
-\contentsline {subsubsection}{چالش‌های مربوط به ایستایی داده‌ها}{17}{section*.15}%
-\contentsline {subsection}{\numberline {1.3.3}پیشرفت‌ها و گسترش‌های مدل \lr {ARIMA}}{18}{subsection.1.3.3}%
-\contentsline {subsubsection}{مدل‌های ترکیبی \lr {ARIMA}}{18}{section*.16}%
-\contentsline {subsubsection}{مدل‌های \lr {ARIMA-GARCH}}{18}{section*.17}%
-\contentsline {subsection}{\numberline {1.3.4}دینامیک بازار ارزهای دیجیتال}{21}{subsection.1.3.4}%
-\contentsline {subsection}{\numberline {1.3.5}چالش‌های پیش‌بینی قیمت}{21}{subsection.1.3.5}%
-\contentsline {subsection}{\numberline {1.3.6}تجزیه سری زمانی}{21}{subsection.1.3.6}%
-\contentsline {section}{\numberline {1.4}تئوری‌ها و روش‌های بنیادی}{21}{section.1.4}%
-\contentsline {section}{\numberline {1.5}روش‌های فرکانس داده در بازارهای مالی}{22}{section.1.5}%
-\contentsline {subsection}{\numberline {1.5.1}مروری بر فرکانس داده در بازارهای مالی}{22}{subsection.1.5.1}%
-\contentsline {subsection}{\numberline {1.5.2}کاربردهای داده‌های با فرکانس بالا در پیش‌بینی ارزهای دیجیتال}{23}{subsection.1.5.2}%
-\contentsline {subsection}{\numberline {1.5.3}چالش‌ها در استفاده روش‌های فرکانس داده}{23}{subsection.1.5.3}%
-\contentsline {section}{\numberline {1.6}شبکه‌های عصبی در پیش‌بینی قیمت ارزهای دیجیتال}{24}{section.1.6}%
-\contentsline {subsection}{\numberline {1.6.1}مقدمه‌ای بر شبکه‌های عصبی}{24}{subsection.1.6.1}%
-\contentsline {subsection}{\numberline {1.6.2}انواع شبکه‌های عصبی در پیش‌بینی ارزهای دیجیتال}{24}{subsection.1.6.2}%
-\contentsline {subsection}{\numberline {1.6.3}معماری‌ها مدل‌های یادگیری عمیق}{24}{subsection.1.6.3}%
-\contentsline {subsubsection}{شبکه‌های عصبی پیش‌خور}{25}{section*.18}%
-\contentsline {subsubsection}{شبکه‌های عصبی بازگشتی}{25}{section*.19}%
-\contentsline {subsubsection}{شبکه‌های حافظه کوتاه‌مدت بلندمدت}{26}{section*.20}%
-\contentsline {subsection}{\numberline {1.6.4}چالش‌ها در استفاده از شبکه‌های عصبی در پیش‌بینی ارزهای دیجیتال}{26}{subsection.1.6.4}%
-\contentsline {section}{\numberline {1.7}هوش مصنوعی در پیش‌بینی قیمت ارزهای دیجیتال}{26}{section.1.7}%
-\contentsline {subsection}{\numberline {1.7.1}تکنیک‌های هوش مصنوعی در پیش‌بینی ارزهای دیجیتال}{27}{subsection.1.7.1}%
-\contentsline {subsection}{\numberline {1.7.2}یادگیری گروهی}{27}{subsection.1.7.2}%
-\contentsline {subsubsection}{یادگیری تقویتی}{27}{section*.21}%
-\contentsline {subsubsection}{الگوریتم‌های ژنتیک}{28}{section*.22}%
-\contentsline {subsection}{\numberline {1.7.3}تحلیل دامنه بسامد در پیش‌بینی رمز ارز‌ها}{28}{subsection.1.7.3}%
-\contentsline {subsection}{\numberline {1.7.4}هوش مصنوعی قابل تفسیر }{29}{subsection.1.7.4}%
-\contentsline {section}{\numberline {1.8}شکاف‌های پژوهشی}{29}{section.1.8}%
-\contentsline {section}{\numberline {1.9}جهت‌گیری‌های آینده}{29}{section.1.9}%
-\contentsline {chapter}{\numberline {2}روش شناسی}{33}{chapter.2}%
-\contentsline {section}{\numberline {2.1}طراحی تحقیق}{34}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}چارچوب مفهومی}{35}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}نوع پژوهش}{35}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}فرآیند پژوهش}{35}{subsection.2.1.3}%
-\contentsline {section}{\numberline {2.2}جمع‌آوری داده‌ها}{36}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}منابع داده}{36}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}نوع داده‌ها}{36}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}دوره زمانی}{37}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}ابزارهای جمع‌آوری}{37}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}چالش‌های جمع‌آوری داده}{37}{subsection.2.2.5}%
-\contentsline {section}{\numberline {2.3}پیش‌پردازش داده‌ها}{38}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}پاک‌سازی داده‌ها}{38}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}نرمال‌سازی}{38}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}تقسیم داده‌ها}{38}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}ابزارهای پیش‌پردازش}{39}{subsection.2.3.4}%
-\contentsline {section}{\numberline {2.4}مهندسی ویژگی‌ها}{39}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}ویژگی‌های اولیه}{39}{subsection.2.4.1}%
-\contentsline {section}{\numberline {2.5}تحلیل بسامد داده‌ها}{39}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}تبدیل فوریه}{39}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}تبدیل موجک}{39}{subsection.2.5.2}%
-\contentsline {section}{\numberline {2.6}طراحی شبکه‌های عصبی}{40}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1}شبکه‌های عصبی پیش‌خور (FNN)}{40}{subsection.2.6.1}%
-\contentsline {subsection}{\numberline {2.6.2}شبکه‌های عصبی بازگشتی (RNN)}{40}{subsection.2.6.2}%
-\contentsline {subsection}{\numberline {2.6.3}شبکه‌های LSTM}{40}{subsection.2.6.3}%
-\contentsline {section}{\numberline {2.7}تکنیک‌های هوش مصنوعی}{40}{section.2.7}%
-\contentsline {subsection}{\numberline {2.7.1}یادگیری تقویتی}{40}{subsection.2.7.1}%
-\contentsline {subsection}{\numberline {2.7.2}الگوریتم‌های ژنتیک}{41}{subsection.2.7.2}%
-\contentsline {section}{\numberline {2.8}ارزیابی مدل}{41}{section.2.8}%
-\contentsline {subsection}{\numberline {2.8.1}معیارهای عملکرد}{41}{subsection.2.8.1}%
-\contentsline {subsection}{\numberline {2.8.2}اعتبارسنجی متقاطع}{41}{subsection.2.8.2}%
-\contentsline {section}{\numberline {2.9}ملاحظات اخلاقی}{41}{section.2.9}%
-\contentsline {section}{\numberline {2.10}محدودیت‌ها و چالش‌ها}{42}{section.2.10}%
-\contentsline {section}{\numberline {2.11}نتیجه‌گیری}{42}{section.2.11}%
-\contentsline {chapter}{\numberline {3}نتایج}{44}{chapter.3}%
-\contentsline {section}{\numberline {3.1}مقدمه}{44}{section.3.1}%
-\contentsline {section}{\numberline {3.2}آماده‌سازی داده‌ها و تحلیل اولیه}{45}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}جمع‌آوری داده‌ها}{45}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}پیش‌پردازش داده‌ها}{45}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}تحلیل اولیه داده‌ها}{46}{subsection.3.2.3}%
-\contentsline {section}{\numberline {3.3}نتایج تحلیل بسامد داده‌ها}{47}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}تبدیل فوریه سریع (FFT)}{47}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}تبدیل موجک}{48}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}عملکرد مدل‌های شبکه عصبی (LSTM)}{50}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}آموزش و پیش‌بینی با شبکه LSTM}{50}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}معیارهای عملکرد}{51}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}تحلیل عملکرد در دوره‌های مختلف}{52}{subsection.3.4.3}%
-\contentsline {section}{\numberline {3.5}ارزیابی کلی مدل و مقایسه با روش‌های مرجع}{52}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}مقایسه با روش‌های مرجع}{52}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}تحلیل آماری}{53}{subsection.3.5.2}%
-\contentsline {section}{\numberline {3.6}تحلیل محدودیت‌ها و چالش‌ها}{53}{section.3.6}%
-\contentsline {subsection}{\numberline {3.6.1}نویز در داده‌ها}{53}{subsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.6.2}پیچیدگی محاسباتی}{54}{subsection.3.6.2}%
-\contentsline {subsection}{\numberline {3.6.3}تغییرات ناگهانی بازار}{54}{subsection.3.6.3}%
-\contentsline {section}{\numberline {3.7}نتایج پیش‌بینی مدل‌ها}{54}{section.3.7}%
-\contentsline {subsection}{\numberline {3.7.1}نمودارهای پیش‌بینی تک‌مدلی}{54}{subsection.3.7.1}%
-\contentsline {subsection}{\numberline {3.7.2}نمودار مقایسه‌ای کل مدل‌ها}{57}{subsection.3.7.2}%
-\contentsline {subsection}{\numberline {3.7.3}جداول عملکرد مدل‌ها}{58}{subsection.3.7.3}%
-\contentsline {subsection}{\numberline {3.7.4}تحلیل خطای باقی‌مانده}{59}{subsection.3.7.4}%
-\contentsline {subsection}{\numberline {3.7.5}مقایسه معیارهای عملکرد}{63}{subsection.3.7.5}%
-\contentsline {subsection}{\numberline {3.7.6}تحلیل نتایج}{63}{subsection.3.7.6}%
-\contentsline {section}{\numberline {3.8}نتیجه‌گیری و بحث}{65}{section.3.8}%
+\contentsline {chapter}{مقدمه}{9}{chapter*.5}%
+\contentsline {chapter}{\numberline {1}مرور ادبیات}{12}{chapter.1}%
+\contentsline {section}{\numberline {1.1}مقدمه}{12}{section.1.1}%
+\contentsline {section}{\numberline {1.2}تاریخچه پیش بینی قیمت دارایی‌های مالی}{13}{section.1.2}%
+\contentsline {subsubsection}{فرضیه بازار کارا (\lr {EMH})}{13}{section*.6}%
+\contentsline {subsubsection}{نقدهای تجربی به فرضیه بازارا کارا}{14}{section*.7}%
+\contentsline {subsubsection}{توسعه‌های مدل‌های جایگزین و نقدهای مدرن به فرضیه بازار کارا }{15}{section*.8}%
+\contentsline {subsubsection}{نظریه بازارهای غیرکارا}{15}{section*.9}%
+\contentsline {subsubsection}{تحقیقات جدید و گسترش فرضیه کارایی بازار}{15}{section*.10}%
+\contentsline {subsubsection}{نظرات حامیان فرضیه کارایی بازار}{15}{section*.11}%
+\contentsline {subsubsection}{نتیجه گیری نقد‌ها به کارایی بازار}{16}{section*.12}%
+\contentsline {section}{\numberline {1.3}روش‌ها و مدل‌های مورد استفاده برای پیش بینی}{16}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}مدل‌های \lr {ARIMA}}{16}{subsection.1.3.1}%
+\contentsline {subsubsection}{کاربردهای \lr {ARIMA} در پیش‌بینی قیمت‌ها}{17}{section*.13}%
+\contentsline {subsection}{\numberline {1.3.2}نقدها و محدودیت‌های مدل \lr {ARIMA}}{18}{subsection.1.3.2}%
+\contentsline {subsubsection}{محدودیت‌ در مدل‌سازی روابط غیرخطی}{18}{section*.14}%
+\contentsline {subsubsection}{عدم توانایی در پیش‌بینی تغییرات ناگهانی}{18}{section*.15}%
+\contentsline {subsubsection}{چالش‌های مربوط به ایستایی داده‌ها}{18}{section*.16}%
+\contentsline {subsection}{\numberline {1.3.3}پیشرفت‌ها و گسترش‌های مدل \lr {ARIMA}}{19}{subsection.1.3.3}%
+\contentsline {subsubsection}{مدل‌های ترکیبی \lr {ARIMA}}{19}{section*.17}%
+\contentsline {subsubsection}{مدل‌های \lr {ARIMA-GARCH}}{19}{section*.18}%
+\contentsline {subsection}{\numberline {1.3.4}دینامیک بازار ارزهای دیجیتال}{22}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}چالش‌های پیش‌بینی قیمت}{22}{subsection.1.3.5}%
+\contentsline {subsection}{\numberline {1.3.6}تجزیه سری زمانی}{22}{subsection.1.3.6}%
+\contentsline {section}{\numberline {1.4}تئوری‌ها و روش‌های بنیادی}{22}{section.1.4}%
+\contentsline {section}{\numberline {1.5}روش‌های فرکانس داده در بازارهای مالی}{23}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}مروری بر فرکانس داده در بازارهای مالی}{23}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}کاربردهای داده‌های با فرکانس بالا در پیش‌بینی ارزهای دیجیتال}{24}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}چالش‌ها در استفاده روش‌های فرکانس داده}{24}{subsection.1.5.3}%
+\contentsline {section}{\numberline {1.6}شبکه‌های عصبی در پیش‌بینی قیمت ارزهای دیجیتال}{25}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}مقدمه‌ای بر شبکه‌های عصبی}{25}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}انواع شبکه‌های عصبی در پیش‌بینی ارزهای دیجیتال}{25}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}معماری‌ها مدل‌های یادگیری عمیق}{25}{subsection.1.6.3}%
+\contentsline {subsubsection}{شبکه‌های عصبی پیش‌خور}{26}{section*.19}%
+\contentsline {subsubsection}{شبکه‌های عصبی بازگشتی}{26}{section*.20}%
+\contentsline {subsubsection}{شبکه‌های حافظه کوتاه‌مدت بلندمدت}{27}{section*.21}%
+\contentsline {subsection}{\numberline {1.6.4}چالش‌ها در استفاده از شبکه‌های عصبی در پیش‌بینی ارزهای دیجیتال}{27}{subsection.1.6.4}%
+\contentsline {section}{\numberline {1.7}هوش مصنوعی در پیش‌بینی قیمت ارزهای دیجیتال}{27}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}تکنیک‌های هوش مصنوعی در پیش‌بینی ارزهای دیجیتال}{28}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}یادگیری گروهی}{28}{subsection.1.7.2}%
+\contentsline {subsubsection}{یادگیری تقویتی}{28}{section*.22}%
+\contentsline {subsubsection}{الگوریتم‌های ژنتیک}{29}{section*.23}%
+\contentsline {subsection}{\numberline {1.7.3}تحلیل دامنه بسامد در پیش‌بینی رمز ارز‌ها}{29}{subsection.1.7.3}%
+\contentsline {subsection}{\numberline {1.7.4}هوش مصنوعی قابل تفسیر }{30}{subsection.1.7.4}%
+\contentsline {section}{\numberline {1.8}شکاف‌های پژوهشی}{30}{section.1.8}%
+\contentsline {section}{\numberline {1.9}جهت‌گیری‌های آینده}{30}{section.1.9}%
+\contentsline {chapter}{\numberline {2}روش شناسی}{34}{chapter.2}%
+\contentsline {section}{\numberline {2.1}طراحی تحقیق}{35}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}چارچوب مفهومی}{36}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}نوع پژوهش}{38}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}فرآیند پژوهش}{38}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}جمع‌آوری داده‌ها}{38}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}منابع داده}{38}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}نوع داده‌ها}{39}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}دوره زمانی}{39}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}ابزارهای جمع‌آوری}{39}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}چالش‌های جمع‌آوری داده}{39}{subsection.2.2.5}%
+\contentsline {section}{\numberline {2.3}پیش‌پردازش داده‌ها}{40}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}پاک‌سازی داده‌ها}{40}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}نرمال‌سازی}{40}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}تقسیم داده‌ها}{40}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}ابزارهای پیش‌پردازش}{41}{subsection.2.3.4}%
+\contentsline {section}{\numberline {2.4}مهندسی ویژگی‌ها}{41}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}ویژگی‌های اولیه}{41}{subsection.2.4.1}%
+\contentsline {section}{\numberline {2.5}تحلیل بسامد داده‌ها}{41}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}تبدیل فوریه}{41}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}تبدیل موجک}{41}{subsection.2.5.2}%
+\contentsline {section}{\numberline {2.6}طراحی شبکه‌های عصبی}{42}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}شبکه‌های عصبی پیش‌خور (FNN)}{42}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}شبکه‌های عصبی بازگشتی (RNN)}{42}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}شبکه‌های LSTM}{42}{subsection.2.6.3}%
+\contentsline {section}{\numberline {2.7}تکنیک‌های هوش مصنوعی}{42}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}یادگیری تقویتی}{42}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}الگوریتم‌های ژنتیک}{43}{subsection.2.7.2}%
+\contentsline {section}{\numberline {2.8}ارزیابی مدل}{43}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}معیارهای عملکرد}{43}{subsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.8.2}اعتبارسنجی متقاطع}{43}{subsection.2.8.2}%
+\contentsline {section}{\numberline {2.9}ملاحظات اخلاقی}{43}{section.2.9}%
+\contentsline {section}{\numberline {2.10}محدودیت‌ها و چالش‌ها}{44}{section.2.10}%
+\contentsline {section}{\numberline {2.11}نتیجه‌گیری}{44}{section.2.11}%
+\contentsline {chapter}{\numberline {3}نتایج}{45}{chapter.3}%
+\contentsline {section}{\numberline {3.1}مقدمه}{45}{section.3.1}%
+\contentsline {section}{\numberline {3.2}آماده‌سازی داده‌ها و تحلیل اولیه}{46}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}جمع‌آوری داده‌ها}{46}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}پیش‌پردازش داده‌ها}{47}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}تحلیل اولیه داده‌ها}{48}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}نتایج تحلیل بسامد داده‌ها}{49}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}تبدیل فوریه سریع (FFT)}{49}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}تبدیل موجک}{50}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}عملکرد مدل‌های شبکه عصبی (LSTM)}{52}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}آموزش و پیش‌بینی با شبکه LSTM}{52}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}معیارهای عملکرد}{53}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}تحلیل عملکرد در دوره‌های مختلف}{54}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}ارزیابی کلی مدل و مقایسه با روش‌های مرجع}{54}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}مقایسه با روش‌های مرجع}{54}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}تحلیل آماری}{55}{subsection.3.5.2}%
+\contentsline {section}{\numberline {3.6}تحلیل محدودیت‌ها و چالش‌ها}{55}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}نویز در داده‌ها}{55}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}پیچیدگی محاسباتی}{56}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}تغییرات ناگهانی بازار}{56}{subsection.3.6.3}%
+\contentsline {section}{\numberline {3.7}جزییات مدل‌ها}{56}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}مدل \lr {LSTM}}{56}{subsection.3.7.1}%
+\contentsline {section}{\numberline {3.8}پیشینه نظری}{58}{section.3.8}%
+\contentsline {section}{\numberline {3.9}نتایج پیش‌بینی مدل‌ها}{58}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}نمودارهای پیش‌بینی تک‌مدلی}{58}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}نمودار مقایسه‌ای کل مدل‌ها}{60}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}جداول عملکرد مدل‌ها}{61}{subsection.3.9.3}%
+\contentsline {subsection}{\numberline {3.9.4}تحلیل خطای باقی‌مانده}{63}{subsection.3.9.4}%
+\contentsline {subsection}{\numberline {3.9.5}مقایسه معیارهای عملکرد}{64}{subsection.3.9.5}%
+\contentsline {subsection}{\numberline {3.9.6}تحلیل نتایج}{65}{subsection.3.9.6}%
+\contentsline {section}{\numberline {3.10}اضافه کردن داده‌های بلاک چین به مدل}{67}{section.3.10}%
+\contentsline {section}{\numberline {3.11}نتیجه‌گیری و بحث}{67}{section.3.11}%

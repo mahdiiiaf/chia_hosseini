@@ -5,6 +5,10 @@ Reallocating 'name_of_file' (item size: 1) to 21 items.
 A level-1 auxiliary file: ./chapters/intro.aux
 Reallocating 'name_of_file' (item size: 1) to 24 items.
 A level-1 auxiliary file: ./chapters/chapter1.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: ./chapters/chapter2.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: ./chapters/chapter3.aux
 Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: plain-fa.bst
 Reallocating 'name_of_file' (item size: 1) to 21 items.
@@ -69,89 +73,175 @@ Repeated entry---line 1309 of file ./chapters/biblo.bib
  : @article{bollerslev1986generalized
  :                                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1361 of file ./chapters/biblo.bib
+Repeated entry---line 1363 of file ./chapters/biblo.bib
  : @book{box1976time
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1375 of file ./chapters/biblo.bib
+Repeated entry---line 1377 of file ./chapters/biblo.bib
  : @article{weigend1991predicting
  :                               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1393 of file ./chapters/biblo.bib
+Repeated entry---line 1395 of file ./chapters/biblo.bib
  : @article{tsay2005analysis
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1413 of file ./chapters/biblo.bib
+Repeated entry---line 1415 of file ./chapters/biblo.bib
  : @article{zhang2008forecasting
  :                              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1433 of file ./chapters/biblo.bib
+Repeated entry---line 1435 of file ./chapters/biblo.bib
  : @article{lo1997market
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1453 of file ./chapters/biblo.bib
+Repeated entry---line 1455 of file ./chapters/biblo.bib
  : @book{hamilton1994time
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1467 of file ./chapters/biblo.bib
+Repeated entry---line 1469 of file ./chapters/biblo.bib
  : @article{anderson1998forecasting
  :                                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1507 of file ./chapters/biblo.bib
+Repeated entry---line 1509 of file ./chapters/biblo.bib
  : @article{zhang2005forecasting
  :                              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1527 of file ./chapters/biblo.bib
+Repeated entry---line 1529 of file ./chapters/biblo.bib
  : @article{engle1982autogressive
  :                               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1545 of file ./chapters/biblo.bib
+Repeated entry---line 1547 of file ./chapters/biblo.bib
  : @book{box1976time
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1559 of file ./chapters/biblo.bib
+Repeated entry---line 1561 of file ./chapters/biblo.bib
  : @article{weigend1991predicting
  :                               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1577 of file ./chapters/biblo.bib
+Repeated entry---line 1579 of file ./chapters/biblo.bib
  : @article{tsay2005analysis
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1597 of file ./chapters/biblo.bib
+Repeated entry---line 1599 of file ./chapters/biblo.bib
  : @article{zhang2008forecasting
  :                              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1617 of file ./chapters/biblo.bib
+Repeated entry---line 1619 of file ./chapters/biblo.bib
  : @article{lo1997market
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1637 of file ./chapters/biblo.bib
+Repeated entry---line 1639 of file ./chapters/biblo.bib
  : @book{hamilton1994time
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1651 of file ./chapters/biblo.bib
+Repeated entry---line 1653 of file ./chapters/biblo.bib
  : @article{anderson1998forecasting
  :                                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1671 of file ./chapters/biblo.bib
+Repeated entry---line 1673 of file ./chapters/biblo.bib
  : @article{diebold2001forecasting
  :                                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1691 of file ./chapters/biblo.bib
+Repeated entry---line 1693 of file ./chapters/biblo.bib
  : @article{zhang2005forecasting
  :                              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1711 of file ./chapters/biblo.bib
+Repeated entry---line 1713 of file ./chapters/biblo.bib
  : @article{engle1982autogressive
  :                               ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "ahmed2011forecasting"
+Repeated entry---line 1733 of file ./chapters/biblo.bib
+ : @book{box2015time
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1749 of file ./chapters/biblo.bib
+ : @article{fama1965efficient
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1769 of file ./chapters/biblo.bib
+ : @article{lo1997market
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1783 of file ./chapters/biblo.bib
+ : @article{malkiel2003efficient
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1803 of file ./chapters/biblo.bib
+ : @article{fama1991efficient
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1823 of file ./chapters/biblo.bib
+ : @article{tsay2005analysis
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1837 of file ./chapters/biblo.bib
+ : @article{zhang2008forecasting
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1857 of file ./chapters/biblo.bib
+ : @article{engle1982autogressive
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1877 of file ./chapters/biblo.bib
+ : @article{bollerslev1986generalized
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1933 of file ./chapters/biblo.bib
+ : @article{hsu2018predicting
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1951 of file ./chapters/biblo.bib
+ : @article{zhang2021hybrid
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2007 of file ./chapters/biblo.bib
+ : @article{urquhart2016inefficiency
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2043 of file ./chapters/biblo.bib
+ : @article{nguyen2021wavelet
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2061 of file ./chapters/biblo.bib
+ : @article{lahmiri2018chaos
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2079 of file ./chapters/biblo.bib
+ : @book{mallat1999wavelet
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2093 of file ./chapters/biblo.bib
+ : @book{percival2000wavelet
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2107 of file ./chapters/biblo.bib
+ : @article{hsu2018predicting
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2125 of file ./chapters/biblo.bib
+ : @article{zhang2021hybrid
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2143 of file ./chapters/biblo.bib
+ : @article{wang2021ensemble
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2161 of file ./chapters/biblo.bib
+ : @book{box1976time
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2175 of file ./chapters/biblo.bib
+ : @article{zhang2005forecasting
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2193 of file ./chapters/biblo.bib
+ : @article{lo1997market
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2211 of file ./chapters/biblo.bib
+ : @article{author1
+ :                 ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "armstrong2001forecasting"
-Warning--I didn't find a database entry for "fry2018market"
-Warning--I didn't find a database entry for "nguyen2021wavelet"
-Warning--I didn't find a database entry for "lahmiri2018chaos"
-Warning--I didn't find a database entry for "philippas2019financial"
-Warning--I didn't find a database entry for "arroyo2021ensemble"
 Warning--I didn't find a database entry for "antulov2022explainable"
 -- plain-fa.bst version 0.6 (2011/07/01) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
@@ -160,45 +250,45 @@ Warning--empty journal in mallat1999wavelet
 Warning--empty journal in percival2000wavelet
 
 Done.
-You've used 44 entries,
+You've used 52 entries,
             2535 wiz_defined-function locations,
-            895 strings with 10802 characters,
-and the built_in function-call counts, 13499 in all, are:
-= -- 1239
-> -- 432
+            937 strings with 11817 characters,
+and the built_in function-call counts, 16206 in all, are:
+= -- 1493
+> -- 533
 < -- 0
-+ -- 181
-- -- 132
-* -- 840
-:= -- 2149
-add.period$ -- 132
-call.type$ -- 44
-change.case$ -- 197
++ -- 221
+- -- 164
+* -- 1013
+:= -- 2574
+add.period$ -- 156
+call.type$ -- 52
+change.case$ -- 233
 chr.to.int$ -- 0
-cite$ -- 47
-duplicate$ -- 477
-empty$ -- 1059
-format.name$ -- 132
-if$ -- 3087
+cite$ -- 55
+duplicate$ -- 566
+empty$ -- 1263
+format.name$ -- 164
+if$ -- 3705
 int.to.chr$ -- 0
-int.to.str$ -- 44
-missing$ -- 302
-newline$ -- 402
-num.names$ -- 88
-pop$ -- 138
+int.to.str$ -- 52
+missing$ -- 365
+newline$ -- 474
+num.names$ -- 104
+pop$ -- 165
 preamble$ -- 1
-purify$ -- 154
+purify$ -- 183
 quote$ -- 0
-skip$ -- 313
+skip$ -- 375
 stack$ -- 0
-substring$ -- 903
-swap$ -- 41
+substring$ -- 1104
+swap$ -- 49
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 174
+type$ -- 204
 warning$ -- 3
-while$ -- 129
-width$ -- 46
-write$ -- 609
-(There were 34 error messages)
+while$ -- 157
+width$ -- 54
+write$ -- 720
+(There were 57 error messages)

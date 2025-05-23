@@ -25,6 +25,15 @@ Anderson, Benjamin.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{arroyo2021ensemble}
+Arroyo, Javier et~al.
+\newblock Ensemble learning for cryptocurrency price forecasting.
+\newblock {\em Applied Soft Computing}, 104:107205, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{author1}
 Author, First and Author, Second.
 \newblock High-frequency data in bitcoin price prediction.
@@ -173,6 +182,24 @@ Festinger, Leon.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{fry2018market}
+Fry, John.
+\newblock Market dynamics in cryptocurrencies.
+\newblock {\em Financial Economics Review}, 22:45--60, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Graves2013}
+Graves, Alex.
+\newblock {\em Supervised Sequence Labelling with Recurrent Neural Networks}.
+\newblock Springer, 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{author10}
 Green, Oliver.
 \newblock Convolutional neural networks in financial market prediction.
@@ -220,6 +247,15 @@ Harris, Luke.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{Hochreiter1997}
+Hochreiter, Sepp and Schmidhuber, J{\"u}rgen.
+\newblock Long short-term memory.
+\newblock {\em Neural Computation}, 9(8):1735--1780, 1997.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{hsu2018predicting}
 Hsu, Chih-Chun, Chen, Wei-Chun, and Hsieh, Min-Hui.
 \newblock Predicting cryptocurrency price using deep learning.
@@ -242,6 +278,15 @@ Johnson, Bob.
 Kahneman, Daniel.
 \newblock Thinking, fast and slow.
 \newblock 2011.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{lahmiri2018chaos}
+Lahmiri, Salim.
+\newblock Chaos, randomness, and multi-fractality in bitcoin market.
+\newblock {\em Chaos, Solitons \& Fractals}, 113:44--49, 2018.
 
 \end{LTRbibitems}
 
@@ -283,10 +328,28 @@ Mallat, St{\'e}phane.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{nguyen2021wavelet}
+Nguyen, Thanh-Lam et~al.
+\newblock Wavelet-based decomposition for cryptocurrency price forecasting.
+\newblock {\em Finance Research Letters}, 42:101923, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{percival2000wavelet}
 Percival, Donald~B and Walden, Andrew~T.
 \newblock Wavelet methods for time series analysis.
 \newblock 2000.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{philippas2019financial}
+Philippas, Dionisis et~al.
+\newblock Financial market sentiment analysis using machine learning.
+\newblock {\em Journal of Behavioral Finance}, 20(4):429--445, 2019.
 
 \end{LTRbibitems}
 
@@ -305,6 +368,16 @@ Poterba, James~M. and Summers, Lawrence~H.
 Smith, Alice.
 \newblock Feedforward neural networks for predicting bitcoin prices.
 \newblock {\em Machine Learning Review}, 9:32--55, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Srivastava2014}
+Srivastava, Nitish, Hinton, Geoffrey, Krizhevsky, Alex, Sutskever, Ilya, and
+  Salakhutdinov, Ruslan.
+\newblock Dropout: A simple way to prevent neural networks from overfitting.
+\newblock {\em Journal of Machine Learning Research}, 15:1929--1958, 2014.
 
 \end{LTRbibitems}
 

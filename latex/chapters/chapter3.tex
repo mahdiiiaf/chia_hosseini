@@ -20,7 +20,59 @@
 \label{sec:data_preparation}
 
 \subsection{جمع‌آوری داده‌ها}
-داده‌های مورد استفاده در این پژوهش شامل سری‌های زمانی قیمت روزانه بیت‌کوین از ژانویه ۲۰۱۸ تا دسامبر ۲۰۲۴ است. این داده‌ها از طریق کتابخانه \texttt{yfinance} از پلتفرم \lr{Yahoo Finance} استخراج شدند، که به عنوان یک منبع معتبر برای داده‌های تاریخی رمز ارزها شناخته می‌شود. مجموعه داده شامل 2557 نقطه داده (روزانه) است که قیمت بسته شدن \lr{(Close Price)} بیت‌کوین، اتریوم و  را در بر می‌گیرد. 
+داده‌های مورد استفاده در این پژوهش شامل سری‌های زمانی قیمت روزانه بیت‌کوین از ژانویه ۲۰۱۸ تا دسامبر ۲۰۲۴ است. این داده‌ها از طریق کتابخانه \texttt{yfinance} از پلتفرم \lr{Yahoo Finance} استخراج شدند، که به عنوان یک منبع معتبر برای داده‌های تاریخی رمز ارزها شناخته می‌شود. مجموعه داده شامل 2557 نقطه داده (روزانه) است که قیمت بسته شدن \lr{(Close Price)} بیت‌کوین، اتریوم و  را در بر می‌گیرد. خلاصه‌ای از داده‌ها در \ref{tab:btc_describe} آمده است. داده‌های بلاک چین از وب سایت \href{https://www.blockchain.com/}{بلاک چین}\footnote{با استفاده از \lr{Api} که از طریق \href{https://api.blockchain.info/}{اینجا} قابل ارزیابی است.}.
+ 
+ 
+
+
+
+
+
+
+\begin{table}[H]
+
+	\begin{tabular}{|l|l|l|l|l|l|}
+
+		\hline
+		%Price & Close & High & Low & Open & Volume \\
+		
+		قیمت& بسته شدن& بالاترین&پایین ترین &باز شدن &حجم \\
+		\hline
+		count & 2556  & 2556  & 2556  & 2556  & 2556 \\
+		mean & 28060/07 & 28650/84 & 27380/99 & 28031/10 & 26953718376/74 \\
+		std & 22106/14 & 22560/37 & 21575/17 & 22073/16 & 19656354619/1 \\
+		min & 3236/76 & 3275/37 & 3191/30 & 3236/27 & 2923670016  \\
+		25\% & 8975/98 & 9202/10 & 8792/07 & 8940/94 & 13808137181  \\
+		50\% & 22185/37 & 22598/98 & 21453/02 & 22013/65 & 24054431603  \\
+		75\% & 42840/40 & 43575/49 & 41906/51 & 42807/78 & 35360104401  \\
+		max & 106140/60 & 108268/44 & 105291/73 & 106147/29 & 350967941479 \\
+		\hline
+	
+	\end{tabular}
+\caption{خلاصه‌ی آماری داده‌های قیمت بیت کوین}\label{tab:btc_describe}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|l|l|l|l|l|}
+		\hline 
+		& ارتفاع بلاک & تعداد تراکنش &  حجم تراکنش‌ها به دلار & حجم تراکنش‌ها به بیت کوین \\
+		\hline
+	 	%& BlockHeight & TxCount & TxVolumeUSD & TxVolumeBTC \\
+		count & 2556 & 2556 & 2556  & 2556 \\
+		mean & 501277/50 & 242325/00 & 1418387677927/70 & 85716151/24 \\
+		std & 737/99 & 0/000000 & 0/059582 & 0/000003 \\
+		min & 500000/00 & 242325/00 & 1418387677927/70 & 85716151/24 \\
+		25\% & 500638/75 & 242325/00 & 1418387677927/70 & 85716151/24 \\
+		50\% & 501277/50 & 242325/00 & 1418387677927/70 & 85716151/24 \\
+		75\% & 501916/25 & 242325/00 & 1418387677927/70 & 85716151/24 \\
+		max & 502555/00 & 242325/00 & 1418387677927/70 & 85716151/24 \\
+		\hline
+	\end{tabular}
+	
+	\footnotetext{حجم به دلار حاصل ضرف تعداد بیت کوین در قیمت بسته شدن همان زمان است}
+\caption{خلاصه‌ی آماری داده‌های بلاک چین بیت کوین}\label{tab:btc_blockchain_describe}
+
+\end{table}
 
 
 \subsection{پیش‌پردازش داده‌ها}
@@ -175,7 +227,7 @@
 برای بررسی معناداری تفاوت عملکرد مدل پیشنهادی با روش‌های مرجع، از آزمون t-test استفاده شد. نتایج نشان داد که بهبود عملکرد مدل پیشنهادی در مقایسه با ARIMA و رگرسیون خطی در سطح اطمینان 95\% معنادار است (\(p < 0.05\)). این تحلیل آماری تأیید می‌کند که برتری مدل پیشنهادی تصادفی نیست و ناشی از طراحی ترکیبی آن است.
 
 \section{تحلیل محدودیت‌ها و چالش‌ها}
-\label{sec:limitations}
+\label{sec:limitationsd}
 
 \subsection{نویز در داده‌ها}
 یکی از چالش‌های اصلی در این پژوهش، وجود نویز بالا در داده‌های رمز ارزها بود، به‌ویژه در دوره‌های پرنوسان بازار. همان‌طور که در شکل \ref{fig:lstm_predictions} مشاهده شد، مدل در ثبت تغییرات ناگهانی قیمت (مانند افت‌های شدید) با مشکل مواجه است. این محدودیت با یافته‌های \cite{fry2018market} هم‌خوانی دارد که نشان داد رویدادهای قوی سیاه (مانند تغییرات نظارتی یا اخبار ناگهانی) می‌توانند پیش‌بینی قیمت رمز ارزها را دشوار کنند.
@@ -186,6 +238,68 @@
 \subsection{تغییرات ناگهانی بازار}
 رویدادهای غیرمنتظره مانند تغییرات نظارتی یا هک‌های امنیتی (مانند هک صرافی‌ها) همچنان چالش‌برانگیز هستند. مدل پیشنهادی، اگرچه در پیش‌بینی روندهای کلی موفق است، اما نمی‌تواند این نوع تغییرات ناگهانی را به طور کامل پیش‌بینی کند. این محدودیت با یافته‌های \cite{lo1997market} هم‌خوانی دارد که نشان داد مدل‌های سری زمانی در پیش‌بینی حرکات شدید بازار عملکرد ضعیفی دارند.
 
+
+
+\section{جزییات مدل‌ها}
+در این بخش جزییات معماری مدل‌های مورد استفاده آمده است.
+\subsection{مدل \lr{LSTM}}
+مدل حافظه کوتاه‌مدت بلند (LSTM) مورد استفاده در این پژوهش، یک معماری دو لایه‌ای است که برای پیش‌بینی قیمت بیت‌کوین با استفاده از داده‌های تاریخی قیمت، معیارهای بلاک‌چین، و شاخص‌های اقتصادی طراحی شده است. معماری مدل در شکل زیر نشان داده شده است.
+
+\begin{figure}[H]
+	\centering
+	\begin{tikzpicture}[
+		node distance=1.2cm and 0.8cm, % Reduced vertical and horizontal spacing
+		layer/.style={rectangle, draw, rounded corners, minimum height=1cm, minimum width=5.5cm, fill=blue!10, font=\large, align=center},
+		dropout/.style={rectangle, draw, rounded corners, minimum height=1cm, minimum width=5.5cm, fill=red!10, font=\large, align=center},
+		dense/.style={rectangle, draw, rounded corners, minimum height=1cm, minimum width=6.2cm, fill=green!10, font=\large, align=center},
+		arrow/.style={-latex, thick},
+		label/.style={font=\small, text width=8.5cm, align=center}
+		]
+		
+		% لایه ورودی
+		\node[layer] (input) {\RL{ورودی (1، 13)}};
+		\node[label, below=0.3cm of input] {\RL{گام‌های زمانی = 1\\ ویژگی‌ها = 13 (شامل 7 قیمت تاخیری، میانگین متحرک 7 روزه، 3 معیار بلاک‌چین، و 3 شاخص اقتصادی)}};
+		
+		% لایه LSTM اول
+		\node[layer, above=of input] (lstm1) {\RL{لایه LSTM اول (50 واحد، ReLU )}};
+		\node[label, above=0.3cm of lstm1] {\RL{خروجی: (1، 50) ضبط وابستگی‌های زمانی اولیه}};
+		\draw[arrow] (input.north) -- (lstm1.south);
+		
+		% لایه Dropout اول
+		\node[dropout, above=of lstm1] (dropout1) {\RL{لایه Dropout اول (0.2)}};
+		\node[label, above=0.3cm of dropout1] {\RL{کاهش بیش‌برازش با حذف 20\% نورون‌ها}};
+		\draw[arrow] (lstm1.north) -- (dropout1.south);
+		
+		% لایه LSTM دوم
+		\node[layer, above=of dropout1] (lstm2) {\RL{لایه LSTM دوم (50 واحد، ReLU )}};
+		\node[label, above=0.3cm of lstm2] {\RL{خروجی: (50) شناسایی الگوهای پیچیده‌تر}};
+		\draw[arrow] (dropout1.north) -- (lstm2.south);
+		
+		% لایه Dropout دوم
+		\node[dropout, above=of lstm2] (dropout2) {\RL{لایه Dropout دوم (0.2)}};
+		\node[label, above=0.3cm of dropout2] {\RL{جلوگیری از بیش‌برازش با حذف تصادفی}};
+		\draw[arrow] (lstm2.north) -- (dropout2.south);
+		
+		% لایه خروجی Dense
+		\node[dense, above=of dropout2] (dense) {\RL{لایه خروجی Dense (1)}};
+		\node[label, above=0.3cm of dense] {\RL{خروجی: (1) پیش‌بینی قیمت بیت‌کوین}};
+		\draw[arrow] (dropout2.north) -- (dense.south);
+		
+		% عنوان
+		\node[font=\bfseries\Large, above=1.5cm of dense] {\RL{معماری مدل LSTM}};
+		
+	\end{tikzpicture}
+	\caption{معماری مدل LSTM با دو لایه برای پیش‌بینی قیمت بیت‌کوین. فاصله‌ها کاهش یافته‌اند تا نمودار در یک صفحه جای گیرد، شامل یک لایه ورودی، دو لایه LSTM، دو لایه Dropout، و یک لایه خروجی Dense است.}
+	\label{fig:lstm_architecture}
+\end{figure}
+
+
+
+
+
+\section{پیشینه نظری}
+
+معماری LSTM بر اساس کار هوکرایتر و شمیتهوبر \cite{Hochreiter1997} توسعه یافته است که برای حل مشکل گرادیان ناپدید در شبکه‌های بازگشتی سنتی معرفی شد. استفاده از لایه‌های LSTM چندگانه توسط گریوز \cite{Graves2013} بررسی شد تا الگوهای زمانی سلسله‌مراتبی را بیاموزد. همچنین، تنظیم Dropout برای کاهش بیش‌برازش توسط سریواستاوا و همکاران \cite{Srivastava2014} پیشنهاد شد.
 
 
 
@@ -282,25 +396,21 @@
 		\caption{رگرسیون خطی}
 		\label{fig:linearregression_residuals}
 	\end{subfigure}
-\end{figure}	
-	
-\begin{figure}[H]
+	\\
 	\begin{subfigure}{0.48\textwidth}
 		\centering
 		\includegraphics[width=\textwidth]{gradientboosting_residuals}
-		\caption{Gradient Boosting}
+		\caption{\lr{Gradient Boosting}}
 		\label{fig:gradientboosting_residuals}
 	\end{subfigure}
 	\hfill
 	\begin{subfigure}{0.48\textwidth}
 		\centering
 		\includegraphics[width=\textwidth]{randomforest_residuals}
-		\caption{Random Forest}
+		\caption{\lr{Random Forest}}
 		\label{fig:randomforest_residuals}
 	\end{subfigure}
-	
-\end{figure}	
-\begin{figure}[H]
+	\\
 	\begin{subfigure}{0.48\textwidth}
 		\centering
 		\includegraphics[width=\textwidth]{svr_residuals}
@@ -334,7 +444,7 @@
 بر اساس نتایج ارائه‌شده، تحلیل‌های زیر قابل استنتاج است:
 
 \begin{itemize}
-	\item \textbf{عملکرد کلی مدل‌ها}: مدل LSTM با کمترین مقدار MAE (0.012) و RMSE (0.020) و بالاترین \( R^2 \) (0.88) بهترین عملکرد را در پیش‌بینی قیمت بیت‌کوین نشان داده است. این برتری به دلیل توانایی LSTM در مدل‌سازی وابستگی‌های زمانی طولانی‌مدت در داده‌های سری زمانی است. مدل‌های XGBoost و Random Forest با \( R^2 \) به ترتیب 0.870 و 0.865 عملکرد قابل قبولی داشته‌اند، اما به دلیل عدم مدل‌سازی مستقیم وابستگی‌های زمانی، نسبت به LSTM ضعیف‌تر عمل کرده‌اند.
+	\item \textbf{عملکرد کلی مدل‌ها}: مدل LSTM با کمترین مقدار MAE (0/012) و RMSE (0/020) و بالاترین $ R^2 $ (0/88) بهترین عملکرد را در پیش‌بینی قیمت بیت‌کوین نشان داده است. این برتری به دلیل توانایی LSTM در مدل‌سازی وابستگی‌های زمانی طولانی‌مدت در داده‌های سری زمانی است. مدل‌های XGBoost و Random Forest با $ R^2 $به ترتیب 0.870 و 0.865 عملکرد قابل قبولی داشته‌اند، اما به دلیل عدم مدل‌سازی مستقیم وابستگی‌های زمانی، نسبت به LSTM ضعیف‌تر عمل کرده‌اند.
 	
 	\item \textbf{تحلیل خطای باقی‌مانده}: نمودارهای خطای باقی‌مانده (شکل~\ref{fig:residual_plots}) نشان می‌دهند که مدل ARIMA در دوره‌های پرنوسان بازار خطاهای بیشتری دارد، که با بازه‌های اطمینان وسیع‌تر در شکل~\ref{fig:arima_predictions} هم‌خوانی دارد. مدل‌های مبتنی بر یادگیری ماشین مانند XGBoost و Random Forest الگوهای خطای کمتری نشان می‌دهند، اما همچنان در نقاط اوج و افت شدید قیمت، خطاهایی قابل توجه دارند. این نشان‌دهنده نیاز به ویژگی‌های اضافی (مانند شاخص‌های نوسان یا داده‌های بازار دیگر) برای بهبود پیش‌بینی‌ها در شرایط ناپایدار است.
 	
