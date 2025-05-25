@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.12.8)  23 MAY 2025 12:28
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.12.8)  25 MAY 2025 11:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2948,55 +2948,60 @@ Overfull \hbox (36.49919pt too wide) in paragraph at lines 56--71
  []
 
 
-LaTeX Warning: Reference `footdir@85' on page 47 undefined on input line 72.
+LaTeX Warning: Reference `footdir@87' on page 47 undefined on input line 72.
+
+
+Overfull \hbox (9.62169pt too wide) in paragraph at lines 78--92
+[][][] []
+ []
 
 [47]
 File: ./images/btc_price_plot.png Graphic file (type bmp)
 <./images/btc_price_plot.png>
- [48]
+ [48] [49]
 File: ./images/fft_spectrum.png Graphic file (type bmp)
 <./images/fft_spectrum.png>
- [49] [50]
+ [50]
 File: ./images/wavelet_transform.png Graphic file (type bmp)
 <./images/wavelet_transform.png>
  [51]
 File: ./images/lstm_predictions.png Graphic file (type bmp)
 <./images/lstm_predictions.png>
- [52] [53]
+ [52] [53] [54]
 
-LaTeX Warning: Reference `tab:comparison' on page 54 undefined on input line 19
-9.
+LaTeX Warning: Reference `tab:comparison' on page 55 undefined on input line 21
+7.
 
-[54] [55]
-Overfull \hbox (13.49863pt too wide) in paragraph at lines 239--240
+[55]
+Overfull \hbox (13.49863pt too wide) in paragraph at lines 257--258
 []\TU/XBZar(0)/m/n/10 رویدادهای غیرمنتظره مانند تغییرات نظارتی یا هک‌های امنیتی
  (مانند هک صرافی‌ها) همچنان چالش‌برانگیز[]
  []
 
-[56] [57]
+[56] [57] [58]
 File: ./images/arima_predictions.png Graphic file (type bmp)
 <./images/arima_predictions.png>
 File: ./images/linearregression_predictions.png Graphic file (type bmp)
 <./images/linearregression_predictions.png>
- [58]
+ [59]
 File: ./images/gradientboosting_predictions.png Graphic file (type bmp)
 <./images/gradientboosting_predictions.png>
 File: ./images/randomforest_predictions.png Graphic file (type bmp)
 <./images/randomforest_predictions.png>
 File: ./images/svr_predictions.png Graphic file (type bmp)
 <./images/svr_predictions.png>
- [59]
+ [60]
 File: ./images/xgboost_predictions.png Graphic file (type bmp)
 <./images/xgboost_predictions.png>
 File: ./images/combined_model_predictions.png Graphic file (type bmp)
 <./images/combined_model_predictions.png>
- [60] (chapters/arima_performance_table.tex)
+ [61] (chapters/arima_performance_table.tex)
 (chapters/linear_performance_table.tex)
-(chapters/gradient_boosting_performance_table.tex [61])
+(chapters/gradient_boosting_performance_table.tex [62])
 (chapters/random_forest_performance_table.tex)
 (chapters/svr_performance_table.tex) (chapters/xgboost_performance_table.tex)
 (chapters/lstm_performance_table.tex) (chapters/model_comparison_table.tex
-[62])
+[63])
 File: ./images/arima_residuals.png Graphic file (type bmp)
 <./images/arima_residuals.png>
 File: ./images/linearregression_residuals.png Graphic file (type bmp)
@@ -3004,37 +3009,69 @@ File: ./images/linearregression_residuals.png Graphic file (type bmp)
 File: ./images/gradientboosting_residuals.png Graphic file (type bmp)
 <./images/gradientboosting_residuals.png>
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 10.79997pt on input line 403.
+(Font)              scaled to size 10.79997pt on input line 421.
 File: ./images/randomforest_residuals.png Graphic file (type bmp)
 <./images/randomforest_residuals.png>
 File: ./images/svr_residuals.png Graphic file (type bmp)
 <./images/svr_residuals.png>
 File: ./images/xgboost_residuals.png Graphic file (type bmp)
 <./images/xgboost_residuals.png>
- [63]
+ [64]
 File: ./images/performance_metrics_comparison.png Graphic file (type bmp)
 <./images/performance_metrics_comparison.png>
- [64] [65]
+ [65] [66]
 
-LaTeX Warning: Reference `tab:feature_importance' on page 66 undefined on input
- line 453.
+LaTeX Warning: Reference `tab:feature_importance' on page 67 undefined on input
+ line 471.
 
 
-Overfull \hbox (6.30951pt too wide) in paragraph at lines 455--456
+Overfull \hbox (6.30951pt too wide) in paragraph at lines 473--474
 []\TU/XBZar(0)/m/n/10 جایگزین‌هایی با کارایی بالا و هزینه محاسباتی کمتر مورد اس
 تفاده قرار گیرند، به‌ویژه در سناریوهایی[]
  []
 
-[66]
+[67]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.489 lstm_
+           economic_data_predictions
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.490 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+File: ./images/lstm_economic_data_predictions.png Graphic file (type bmp)
+<./images/lstm_economic_data_predictions.png>
+[68]
+File: ./images/arima_economic_data_predictions.png Graphic file (type bmp)
+<./images/arima_economic_data_predictions.png>
+File: ./images/economic_data_performance_metrics_comparison.png Graphic file (t
+ype bmp)
+<./images/economic_data_performance_metrics_comparison.png>
+
+Overfull \hbox (43.69096pt too wide) in paragraph at lines 519--520
+[][]\TU/XBZar(0)/m/n/10 نمودار مقایسه معیارهای عملکرد نشان می‌دهد که LSTM با []
+\TU/TimesNewRoman(0)/m/n/10 MAE=8927.3946[] \TU/XBZar(0)/m/n/10 و []\TU/TimesNe
+wRoman(0)/m/n/10 RMSE=10492.9766[][]
+ []
+
+[69] [70]
 Missing character: There is no ، in font cmr10!
 Missing character: There is no ، in font cmr10!
 )
-Overfull \hbox (14.10628pt too wide) in paragraph at lines 469--185
+Overfull \hbox (14.10628pt too wide) in paragraph at lines 537--185
 []\TU/XBZar(0)/m/n/10 قدرتمندی برای پیش‌بینی قیمت رمز ارزها فراهم کند. این یافت
 ه‌ها می‌توانند به سرمایه‌گذاران و تصمیم‌گیرندگان[]
  []
 
-[67] (mainChia.bbl
+[71] (mainChia.bbl
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
 (Font)              scaled to size 11.99997pt on input line 12.
 
@@ -3043,17 +3080,17 @@ Underfull \hbox (badness 1205) in paragraph at lines 47--50
 nditional het-[]
  []
 
-[68
+[72
 
 
 
-] [69] [70]
+] [73] [74]
 Underfull \hbox (badness 1521) in paragraph at lines 332--335
 []\TU/TimesNewRoman(0)/m/n/10 cryptocurrency price forecasting.  \TU/TimesNewRo
 man(0)/m/it/10 Finance Research Letters\TU/TimesNewRoman(0)/m/n/10 ,[]
  []
 
-[71] [72]) [73]
+[75] [76]) [77]
 
 Package glossaries Warning: No \printglossary or \printglossaries found. 
 (Remove \makeglossaries if you don't want any glossaries.) 
@@ -3069,16 +3106,25 @@ L3 programming layer <2024-01-04>
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `mainChia.out' has not changed.
-(rerunfilecheck)             Checksum: 59CD06490C67A2DA7B7F75B09EF28E8C;21319.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `mainChia.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `mainChia.out':
+(rerunfilecheck)             Before: 59CD06490C67A2DA7B7F75B09EF28E8C;21319
+(rerunfilecheck)             After:  72BD7184A9CFEF2A0477F63EB6A0ADAD;21391.
  ) 
 Here is how much of TeX's memory you used:
- 53856 strings out of 409617
- 1267748 string characters out of 5774013
+ 53894 strings out of 409617
+ 1269531 string characters out of 5774013
  2108366 words of memory out of 5000000
- 74872 multiletter control sequences out of 15000+600000
+ 74907 multiletter control sequences out of 15000+600000
  565317 words of font info for 131 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,11n,101p,2378b,987s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on mainChia.pdf (75 pages).
+Output written on mainChia.pdf (79 pages).

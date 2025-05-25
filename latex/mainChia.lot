@@ -5,13 +5,13 @@
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {3.1}{\ignorespaces خلاصه‌ی آماری داده‌های قیمت بیت کوین}}{47}{table.caption.25}%
 \contentsline {table}{\numberline {3.2}{\ignorespaces خلاصه‌ی آماری داده‌های بلاک چین بیت کوین}}{47}{table.caption.26}%
-\contentsline {table}{\numberline {3.3}{\ignorespaces عملکرد شبکه LSTM در پیش‌بینی قیمت بیت‌کوین}}{53}{table.caption.31}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces عملکرد شبکه LSTM در پیش‌بینی قیمت بیت‌کوین}}{54}{table.caption.31}%
 \contentsline {table}{\numberline {3.4}{\ignorespaces مقایسه عملکرد مدل‌های مختلف در پیش‌بینی قیمت بیت‌کوین}}{55}{table.caption.32}%
-\contentsline {table}{\numberline {3.5}{\ignorespaces عملکرد مدل ARIMA در پیش‌بینی قیمت بیت‌کوین}}{61}{table.caption.41}%
-\contentsline {table}{\numberline {3.6}{\ignorespaces عملکرد مدل linear در پیش‌بینی قیمت بیت‌کوین}}{61}{table.caption.42}%
-\contentsline {table}{\numberline {3.7}{\ignorespaces عملکرد مدل Gradient Boosting در پیش‌بینی قیمت بیت‌کوین}}{62}{table.caption.43}%
-\contentsline {table}{\numberline {3.8}{\ignorespaces عملکرد مدل Random Forest در پیش‌بینی قیمت بیت‌کوین}}{62}{table.caption.44}%
-\contentsline {table}{\numberline {3.9}{\ignorespaces عملکرد مدل SVR در پیش‌بینی قیمت بیت‌کوین}}{62}{table.caption.45}%
-\contentsline {table}{\numberline {3.10}{\ignorespaces عملکرد مدل XGBoost در پیش‌بینی قیمت بیت‌کوین}}{62}{table.caption.46}%
-\contentsline {table}{\numberline {3.11}{\ignorespaces عملکرد مدل LSTM در پیش‌بینی قیمت بیت‌کوین}}{62}{table.caption.47}%
-\contentsline {table}{\numberline {3.12}{\ignorespaces مقایسه عملکرد مدل‌های مختلف در پیش‌بینی قیمت بیت‌کوین}}{63}{table.caption.48}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces عملکرد مدل ARIMA در پیش‌بینی قیمت بیت‌کوین}}{62}{table.caption.41}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces عملکرد مدل linear در پیش‌بینی قیمت بیت‌کوین}}{62}{table.caption.42}%
+\contentsline {table}{\numberline {3.7}{\ignorespaces عملکرد مدل Gradient Boosting در پیش‌بینی قیمت بیت‌کوین}}{63}{table.caption.43}%
+\contentsline {table}{\numberline {3.8}{\ignorespaces عملکرد مدل Random Forest در پیش‌بینی قیمت بیت‌کوین}}{63}{table.caption.44}%
+\contentsline {table}{\numberline {3.9}{\ignorespaces عملکرد مدل SVR در پیش‌بینی قیمت بیت‌کوین}}{63}{table.caption.45}%
+\contentsline {table}{\numberline {3.10}{\ignorespaces عملکرد مدل XGBoost در پیش‌بینی قیمت بیت‌کوین}}{63}{table.caption.46}%
+\contentsline {table}{\numberline {3.11}{\ignorespaces عملکرد مدل LSTM در پیش‌بینی قیمت بیت‌کوین}}{63}{table.caption.47}%
+\contentsline {table}{\numberline {3.12}{\ignorespaces مقایسه عملکرد مدل‌های مختلف در پیش‌بینی قیمت بیت‌کوین}}{64}{table.caption.48}%

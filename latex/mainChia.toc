@@ -82,31 +82,31 @@
 \contentsline {section}{\numberline {3.1}مقدمه}{45}{section.3.1}%
 \contentsline {section}{\numberline {3.2}آماده‌سازی داده‌ها و تحلیل اولیه}{46}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}جمع‌آوری داده‌ها}{46}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}پیش‌پردازش داده‌ها}{47}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.2}پیش‌پردازش داده‌ها}{48}{subsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.2.3}تحلیل اولیه داده‌ها}{48}{subsection.3.2.3}%
 \contentsline {section}{\numberline {3.3}نتایج تحلیل بسامد داده‌ها}{49}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}تبدیل فوریه سریع (FFT)}{49}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}تبدیل موجک}{50}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.2}تبدیل موجک}{51}{subsection.3.3.2}%
 \contentsline {section}{\numberline {3.4}عملکرد مدل‌های شبکه عصبی (LSTM)}{52}{section.3.4}%
 \contentsline {subsection}{\numberline {3.4.1}آموزش و پیش‌بینی با شبکه LSTM}{52}{subsection.3.4.1}%
 \contentsline {subsection}{\numberline {3.4.2}معیارهای عملکرد}{53}{subsection.3.4.2}%
 \contentsline {subsection}{\numberline {3.4.3}تحلیل عملکرد در دوره‌های مختلف}{54}{subsection.3.4.3}%
-\contentsline {section}{\numberline {3.5}ارزیابی کلی مدل و مقایسه با روش‌های مرجع}{54}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}مقایسه با روش‌های مرجع}{54}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}تحلیل آماری}{55}{subsection.3.5.2}%
-\contentsline {section}{\numberline {3.6}تحلیل محدودیت‌ها و چالش‌ها}{55}{section.3.6}%
-\contentsline {subsection}{\numberline {3.6.1}نویز در داده‌ها}{55}{subsection.3.6.1}%
+\contentsline {section}{\numberline {3.5}ارزیابی کلی مدل و مقایسه با روش‌های مرجع}{55}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}مقایسه با روش‌های مرجع}{55}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}تحلیل آماری}{56}{subsection.3.5.2}%
+\contentsline {section}{\numberline {3.6}تحلیل محدودیت‌ها و چالش‌ها}{56}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}نویز در داده‌ها}{56}{subsection.3.6.1}%
 \contentsline {subsection}{\numberline {3.6.2}پیچیدگی محاسباتی}{56}{subsection.3.6.2}%
 \contentsline {subsection}{\numberline {3.6.3}تغییرات ناگهانی بازار}{56}{subsection.3.6.3}%
-\contentsline {section}{\numberline {3.7}جزییات مدل‌ها}{56}{section.3.7}%
-\contentsline {subsection}{\numberline {3.7.1}مدل \lr {LSTM}}{56}{subsection.3.7.1}%
-\contentsline {section}{\numberline {3.8}پیشینه نظری}{58}{section.3.8}%
-\contentsline {section}{\numberline {3.9}نتایج پیش‌بینی مدل‌ها}{58}{section.3.9}%
-\contentsline {subsection}{\numberline {3.9.1}نمودارهای پیش‌بینی تک‌مدلی}{58}{subsection.3.9.1}%
-\contentsline {subsection}{\numberline {3.9.2}نمودار مقایسه‌ای کل مدل‌ها}{60}{subsection.3.9.2}%
-\contentsline {subsection}{\numberline {3.9.3}جداول عملکرد مدل‌ها}{61}{subsection.3.9.3}%
-\contentsline {subsection}{\numberline {3.9.4}تحلیل خطای باقی‌مانده}{63}{subsection.3.9.4}%
-\contentsline {subsection}{\numberline {3.9.5}مقایسه معیارهای عملکرد}{64}{subsection.3.9.5}%
-\contentsline {subsection}{\numberline {3.9.6}تحلیل نتایج}{65}{subsection.3.9.6}%
-\contentsline {section}{\numberline {3.10}اضافه کردن داده‌های بلاک چین به مدل}{67}{section.3.10}%
-\contentsline {section}{\numberline {3.11}نتیجه‌گیری و بحث}{67}{section.3.11}%
+\contentsline {section}{\numberline {3.7}جزییات مدل‌ها}{57}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}مدل \lr {LSTM}}{57}{subsection.3.7.1}%
+\contentsline {section}{\numberline {3.8}پیشینه نظری}{59}{section.3.8}%
+\contentsline {section}{\numberline {3.9}نتایج پیش‌بینی مدل‌ها}{59}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}نمودارهای پیش‌بینی تک‌مدلی}{59}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}نمودار مقایسه‌ای کل مدل‌ها}{61}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}جداول عملکرد مدل‌ها}{62}{subsection.3.9.3}%
+\contentsline {subsection}{\numberline {3.9.4}تحلیل خطای باقی‌مانده}{64}{subsection.3.9.4}%
+\contentsline {subsection}{\numberline {3.9.5}مقایسه معیارهای عملکرد}{65}{subsection.3.9.5}%
+\contentsline {subsection}{\numberline {3.9.6}تحلیل نتایج}{66}{subsection.3.9.6}%
+\contentsline {section}{\numberline {3.10}اضافه کردن داده‌های بلاک چین و اقتصاد به مدل}{67}{section.3.10}%
+\contentsline {section}{\numberline {3.11}نتیجه‌گیری و بحث}{70}{section.3.11}%

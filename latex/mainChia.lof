@@ -2,17 +2,20 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces چارچوب مفهومی مدل پیش‌بینی قیمت رمز ارزها}}{37}{figure.caption.24}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces نمودار قیمت روزانه بیت‌کوین (ژانویه ۲۰۱۸ تا دسامبر ۲۰۲۴)}}{48}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces نمودار قیمت روزانه بیت‌کوین (ژانویه ۲۰۱۸ تا دسامبر ۲۰۲۴)}}{49}{figure.caption.27}%
 \contentsline {figure}{\numberline {3.2}{\ignorespaces طیف فرکانسی قیمت روزانه بیت‌کوین با استفاده از FFT}}{50}{figure.caption.28}%
 \contentsline {figure}{\numberline {3.3}{\ignorespaces تجزیه موجک قیمت بیت‌کوین در مقیاس‌های مختلف}}{51}{figure.caption.29}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces مقایسه قیمت‌های واقعی و پیش‌بینی‌شده بیت‌کوین توسط مدل LSTM}}{52}{figure.caption.30}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces معماری مدل LSTM با دو لایه برای پیش‌بینی قیمت بیت‌کوین. فاصله‌ها کاهش یافته‌اند تا نمودار در یک صفحه جای گیرد، شامل یک لایه ورودی، دو لایه LSTM، دو لایه Dropout، و یک لایه خروجی Dense است.}}{57}{figure.caption.33}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces پیش‌بینی‌های مدل ARIMA در مقابل قیمت‌های واقعی بیت‌کوین با بازه اطمینان 95\%}}{58}{figure.caption.34}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces پیش‌بینی‌های رگرسیون خطی در مقابل قیمت‌های واقعی بیت‌کوین}}{59}{figure.caption.35}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces پیش‌بینی‌های Gradient Boosting در مقابل قیمت‌های واقعی بیت‌کوین}}{59}{figure.caption.36}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces پیش‌بینی‌های Random Forest در مقابل قیمت‌های واقعی بیت‌کوین}}{59}{figure.caption.37}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces پیش‌بینی‌های SVR در مقابل قیمت‌های واقعی بیت‌کوین}}{60}{figure.caption.38}%
-\contentsline {figure}{\numberline {3.11}{\ignorespaces پیش‌بینی‌های XGBoost در مقابل قیمت‌های واقعی بیت‌کوین}}{60}{figure.caption.39}%
-\contentsline {figure}{\numberline {3.12}{\ignorespaces مقایسه پیش‌بینی‌های مدل‌های مختلف با قیمت‌های واقعی بیت‌کوین (بدون پیش‌بینی LSTM)}}{61}{figure.caption.40}%
-\contentsline {figure}{\numberline {3.13}{\ignorespaces نمودارهای خطای باقی‌مانده برای مدل‌های مختلف}}{64}{figure.caption.49}%
-\contentsline {figure}{\numberline {3.14}{\ignorespaces مقایسه معیارهای عملکرد مدل‌های مختلف}}{65}{figure.caption.50}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces مقایسه قیمت‌های واقعی و پیش‌بینی‌شده بیت‌کوین توسط مدل LSTM}}{53}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces معماری مدل LSTM با دو لایه برای پیش‌بینی قیمت بیت‌کوین. فاصله‌ها کاهش یافته‌اند تا نمودار در یک صفحه جای گیرد، شامل یک لایه ورودی، دو لایه LSTM، دو لایه Dropout، و یک لایه خروجی Dense است.}}{58}{figure.caption.33}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces پیش‌بینی‌های مدل ARIMA در مقابل قیمت‌های واقعی بیت‌کوین با بازه اطمینان 95\%}}{59}{figure.caption.34}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces پیش‌بینی‌های رگرسیون خطی در مقابل قیمت‌های واقعی بیت‌کوین}}{60}{figure.caption.35}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces پیش‌بینی‌های Gradient Boosting در مقابل قیمت‌های واقعی بیت‌کوین}}{60}{figure.caption.36}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces پیش‌بینی‌های Random Forest در مقابل قیمت‌های واقعی بیت‌کوین}}{60}{figure.caption.37}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces پیش‌بینی‌های SVR در مقابل قیمت‌های واقعی بیت‌کوین}}{61}{figure.caption.38}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces پیش‌بینی‌های XGBoost در مقابل قیمت‌های واقعی بیت‌کوین}}{61}{figure.caption.39}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces مقایسه پیش‌بینی‌های مدل‌های مختلف با قیمت‌های واقعی بیت‌کوین (بدون پیش‌بینی LSTM)}}{62}{figure.caption.40}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces نمودارهای خطای باقی‌مانده برای مدل‌های مختلف}}{65}{figure.caption.49}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces مقایسه معیارهای عملکرد مدل‌های مختلف}}{66}{figure.caption.50}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces مقایسه پیش‌بینی‌های lstm با قیمت‌های واقعی بیت‌کوین.}}{68}{figure.caption.53}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces مقایسه پیش‌بینی‌های ARIMA با قیمت‌های واقعی بیت‌کوین با بازه اطمینان 95\%.}}{69}{figure.caption.54}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces مقایسه معیارهای عملکرد (MAE، RMSE، $R^2$) برای مدل‌های ARIMA، رگرسیون خطی و LSTM.}}{69}{figure.caption.55}%
